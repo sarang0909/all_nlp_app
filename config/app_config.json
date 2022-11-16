@@ -1,0 +1,11 @@
+{
+    "application_name": "all_nlp_app",
+    "news_sources": "reuters,abc-news",
+    "news_api_key": "cfc5fbb409644c28b837e9fe6554e80d",
+    "language": "en",
+    "log_folder_path": "logs",
+    "log_file_name": "all_nlp_app.log",
+    "max_log_file_size": "5000000",
+    "log_files_backup_count": "10",
+    "log_formatter": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+}
