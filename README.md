@@ -1,6 +1,10 @@
 # all_nlp_app : Almost all NLP concepts in a single use case
 
 
+https://user-images.githubusercontent.com/31824267/202073219-57c60dd7-5557-42a9-b2d2-98f5011eb48d.mp4
+
+
+
 ## About  
 This is a project developed to create a use case where multiple NLP concepts are integrated.
 
